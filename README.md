@@ -8,10 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## To Do
-[X] Intro To React
-[] JSX and Components
-[] Props and State
-[] Event handling and Hooks
-[] Conditional Rendering and Lists
-[] Styling and CSS
-[] Project (Movie Scrapping Webapp)
+- [X] Intro To React
+- [ ] JSX and Components
+- [ ] Props and State
+- [ ] Event Handling and Hooks
+- [ ] Conditional Rendering and Lists
+- [ ] Styling and CSS
+- [ ] Project (Movie Scraping Webapp)
