@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## To Do
 - [X] Intro To React
-- [ ] JSX and Components
+- [ ] Components
 - [ ] Props and State
 - [ ] Event Handling and Hooks
 - [ ] Conditional Rendering and Lists
