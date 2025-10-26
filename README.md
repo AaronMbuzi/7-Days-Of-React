@@ -14,4 +14,4 @@ Currently, two official plugins are available:
 - [x] Event Handling and Hooks
 - [x] Conditional Rendering and Lists
 - [x] Styling and CSS
-- [x] Project (Movie Scraping Webapp)
+- [ ] Project (Movie Scraping Webapp)
