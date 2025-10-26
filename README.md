@@ -10,8 +10,8 @@ Currently, two official plugins are available:
 ## To Do
 - [X] Intro To React
 - [X] Components
-- [ ] Props and State
-- [ ] Event Handling and Hooks
-- [ ] Conditional Rendering and Lists
-- [ ] Styling and CSS
-- [ ] Project (Movie Scraping Webapp)
+- [x] Props and State
+- [x] Event Handling and Hooks
+- [x] Conditional Rendering and Lists
+- [x] Styling and CSS
+- [x] Project (Movie Scraping Webapp)
